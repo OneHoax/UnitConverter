@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UNIT-CONVERTER PARA GOOFY</string>
+
+    <string name="millimeterName">mm:</string>
+    <string name="centimeterName">cm:</string>
+    <string name="meterName">m:</string>
+    <string name="inchName">in:</string>
+    <string name="footName">ft:</string>
+    <string name="convertButton">Convert</string>
+    <string name="refreshButton">Refresh</string>
+</resources>

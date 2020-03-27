@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UNIT-CONVERTER PARA GOOFY</string>
+    <string name="app_name">UNIT-CONVERTER</string>
 
     <string name="millimeterName">mm:</string>
     <string name="centimeterName">cm:</string>
